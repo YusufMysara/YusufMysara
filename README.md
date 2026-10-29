@@ -1,6 +1,6 @@
 # Hi, I'm Youssef 👋
 
- backend developer based in Cairo, Egypt.
+Python backend developer based in Cairo, Egypt.
 
 **What I build:** REST APIs, background pipelines, and AI-powered features, with tests and CI/CD.
 
