@@ -1,6 +1,6 @@
 # Hi, I'm Youssef 👋
 
-Python backend developer based in Cairo, Egypt. 2026 Computer Science graduate.
+ backend developer based in Cairo, Egypt.
 
 **What I build:** REST APIs, background pipelines, and AI-powered features, with tests and CI/CD.
 
